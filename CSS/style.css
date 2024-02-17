@@ -1,0 +1,30 @@
+body {
+    font-family: protest riot;
+    background-color: #D98F07;
+    color: #4A2F59;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Josefin Sans;
+    font-size: 40pt;
+}
+
+header{
+    text-align: center;
+}
+
+#hero, footer {
+    color:#846630;
+    border: 2px solid #8C07D9;
+    background-color: #2F5943;
+    text-align:center;
+    padding: 10px;
+}
+
+#hero img {
+    width:300px;
+}
+
+#bio {
+    text-align: center;
+}
