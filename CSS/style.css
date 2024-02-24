@@ -7,8 +7,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: Josefin Sans;
     text-align: center;
-}
-h1 {
     font-size: 40pt;
 }
 
@@ -48,6 +46,7 @@ header{
 
 #gallery {
     border: 2px solid #8C07D9;
+    margin-bottom: 2rem;
 
 }
 
@@ -57,4 +56,35 @@ header{
 
 #gallery figure {
     text-align: center;
+}
+
+/* Literature */
+#lit {
+    border: 2px solid #8C07D9;
+    margin-bottom: 2rem;
+}
+
+#lit div {
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+#lit div p {
+    padding: 0.3rem 0;
+    clear:both;
+}
+
+/*Dropcaps */
+
+#lit div p::first-letter {
+    color:#4A2F59;
+    background-image: -moz-radial-gradient(white);
+    float: left;
+    font-size:3em;
+    padding:.25em;
+    line-height:.65;
+    border: 4px solid #4A2F59;
+    border-top-left-radius: .2em;
+    border-bottom-right-radius: .2em;
 }
