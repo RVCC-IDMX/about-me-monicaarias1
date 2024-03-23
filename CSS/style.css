@@ -101,9 +101,9 @@ section#hobbies {
 
 /* tablet size */
 
-@media screen and {
-min-width: 100em 
-}
+@media screen and { 
+    min-width: 100em }
+
  figure {
     display:grid;
     grid-template-columns: 2fr 1fr;  
@@ -130,9 +130,7 @@ min-width: 100em
     /* large screen size */
 
 @media screen and {
-    min-width: 100em;
-
-}
+    min-width: 100em;}
 
 #gallery {
     display: grid;
@@ -149,11 +147,4 @@ hr {
 
 figure {
     display:block;
-}
-
-
-#video {
-
-    border: 2px solid #8C07D9;
-    margin-bottom: 2rem;
 }
