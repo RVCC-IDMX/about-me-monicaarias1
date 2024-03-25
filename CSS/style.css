@@ -101,8 +101,9 @@ section#hobbies {
 
 /* tablet size */
 
-@media screen and { 
-    min-width: 100em }
+@media screen and (min-width: 60em) {
+
+    }
 
  figure {
     display:grid;
@@ -129,8 +130,9 @@ section#hobbies {
 
     /* large screen size */
 
-@media screen and {
-    min-width: 100em;}
+@media screen and (min-width: 60em) {
+
+}
 
 #gallery {
     display: grid;
