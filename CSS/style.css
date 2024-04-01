@@ -156,3 +156,9 @@ figure {
     border: 2px solid #8C07D9;
     margin-bottom: 2rem;
 }
+
+/* Contact Form */
+
+#formElements {
+    display:grid;
+}
