@@ -161,4 +161,51 @@ figure {
 
 #formElements {
     display:grid;
+    row-gap: .5em;
+}
+
+#Contact {
+    padding: 1rem;
+    max-width: 600px;
+    margin: 2rem auto;
+
+}
+
+fieldset {
+    border: 2px solid #8C07D9;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
+}
+
+legend {
+    background-color: #8C07D9;
+    color: white;
+    padding: .5em;
+
+}
+
+#Contact input, #Contact textarea, #Contact select, #Contact button {
+    padding: .5em;
+    font-size: 1em;
+
+}
+
+#Contact ul {
+    list-style: none;
+    padding: 0px;
+}
+
+#Contact li {
+    margin: 1rem;
+}
+
+#Contact button {
+    background-color: #8C07D9;
+    color: white;
+    border: 1px solid #4A2F59;
+    max-width: 400px;
+    width: 50%;
+    justify-self: center;
+
 }
