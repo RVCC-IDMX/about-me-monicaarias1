@@ -101,7 +101,7 @@ section#hobbies {
 
 /* tablet size */
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 60rem) {
 
     }
 
@@ -130,7 +130,7 @@ section#hobbies {
 
     /* large screen size */
 
-@media screen and (min-width: 120em) {
+@media screen and (min-width: 120rem) {
 
 }
 
