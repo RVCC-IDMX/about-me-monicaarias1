@@ -164,7 +164,7 @@ figure {
     row-gap: .5em;
 }
 
-#Contact {
+#contact {
     padding: 1rem;
     max-width: 600px;
     margin: 2rem auto;
@@ -185,22 +185,22 @@ legend {
 
 }
 
-#Contact input, #Contact textarea, #Contact select, #Contact button {
+#contact input, #contact textarea, #contact select, #contact button {
     padding: .5em;
     font-size: 1em;
 
 }
 
-#Contact ul {
+#contact ul {
     list-style: none;
     padding: 0px;
 }
 
-#Contact li {
+#contact li {
     margin: 1rem;
 }
 
-#Contact button {
+#contact button {
     background-color: #8C07D9;
     color: white;
     border: 1px solid #4A2F59;
