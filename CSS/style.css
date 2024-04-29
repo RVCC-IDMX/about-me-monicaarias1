@@ -31,6 +31,9 @@ header{
 
 #hero img {
     width:300px;
+    border: 6px solid #8C07D9;
+    margin-bottom: 2rem;
+
 }
 
 /* Bio Section */
@@ -61,6 +64,8 @@ section#hobbies {
 
 #gallery img {
     max-width: 100%;
+    border: 6px solid #8C07D9;
+    margin-bottom: 2rem;
 }
 
 #gallery figure {
